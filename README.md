@@ -1,3 +1,7 @@
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 ### Disentangled Representation Learning Using ($\beta$)-VAE and GAN
 See the paper at https://arxiv.org/pdf/2208.04549.pdf.
 
